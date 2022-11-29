@@ -12,4 +12,4 @@ _Action_: Run all cells and see the perfomance on your laptop using your webcam.
 
 1. Run the human pose estimation notebook and tell us how many FPS you have and what is your CPU.
 2. Share with us your screenshot and result using this Discussion thread, using Task # 1 and your name in the header message.
-https://github.com/openvinotoolkit/openvino_notebooks/discussions/569
+https://github.com/openvinotoolkit/openvino_notebooks/discussions/686
